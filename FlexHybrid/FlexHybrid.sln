@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexHybrid", "FlexHybrid.csproj", "{EC88D58B-4DE0-4117-A443-1997CAAF333E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC88D58B-4DE0-4117-A443-1997CAAF333E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC88D58B-4DE0-4117-A443-1997CAAF333E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC88D58B-4DE0-4117-A443-1997CAAF333E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC88D58B-4DE0-4117-A443-1997CAAF333E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271E5323-E6AF-4D5A-81B2-2341C4F9D933}
+	EndGlobalSection
+EndGlobal
